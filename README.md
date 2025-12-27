@@ -1,7 +1,7 @@
 # 🍃 Spring Boot Crash Course (Kotlin)
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-1.9.25-purple?style=for-the-badge&logo=kotlin)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.2.21-purple?style=for-the-badge&logo=kotlin)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.1-green?style=for-the-badge&logo=spring-boot)
 ![Gradle](https://img.shields.io/badge/Gradle-Build-blue?style=for-the-badge&logo=gradle)
 
