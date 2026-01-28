@@ -66,8 +66,8 @@ class NoteController(private val noteRepository: NoteRepository) {
         }
     }
 
-    @DeleteMapping (path = ["/{id}"])
-    fun deleteById(@PathVariable id : String) {
+    @DeleteMapping(path = ["/{id}"])
+    fun deleteById(@PathVariable id: String) {
         noteRepository.deleteById(ObjectId(id))
     }
 
